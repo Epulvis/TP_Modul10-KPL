@@ -1,4 +1,4 @@
-namespace tpmodul10_103022300057
+namespace tpmodul10_103022300057.Models
 {
     public class WeatherForecast
     {
